@@ -1,4 +1,4 @@
-class Car(val brand: String,val model: String,val price:Double)
+class Car(val brand: String, val model: String, val price: Double)
 
 
 class Buyer(val name: String, var balance: Double) {
